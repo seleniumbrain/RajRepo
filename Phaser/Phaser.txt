@@ -1,3 +1,3 @@
 Created Phaser
 
-Modified line 3 to learne merge conflicts
+Modified same line3 - to see merge conflicts
